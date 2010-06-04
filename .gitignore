@@ -1,1 +1,7 @@
+*~
 *.pyc
+*.cfg
+.*.swp
+*.c
+*.so
+build
